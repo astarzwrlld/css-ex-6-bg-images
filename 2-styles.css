@@ -1,0 +1,25 @@
+html{
+    background-attachment: fixed;
+  background-image: url("images/2-square-tile.gif");
+}
+
+.header{
+    border: 5px solid rgb(251, 152, 3);
+    border-top-style: none;
+    border-bottom-style: none;
+    background-color: rgb(255, 200, 2);
+    padding: 10px;
+}
+
+.head-1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.head-2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.wrapper{
+    max-width:500px;
+    margin:auto;}
