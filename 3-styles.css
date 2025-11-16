@@ -1,6 +1,11 @@
 html{
     background-color: rgb(242, 242, 194);
 }
+.wrapper{
+    max-width: 960px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+}
 
 .body{
     background-color: rgb(252, 252, 252);
@@ -9,14 +14,13 @@ html{
 .header{
     height: 250px;
     background-size: cover;
-        background-image: url("images/3-fruit.jpg");
+    background-image: url("images/3-fruit.jpg");
 }
 
 .site-id{
     text-align: center;
     background-color: rgba(192, 192, 192, 0.5);
     border-top: 4px solid rgb(100, 8, 8);
-    padding: 10px;
 }
 
 .head-1{
